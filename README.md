@@ -1,6 +1,6 @@
 # Missed the Arrow
 
-Checked the ending, made the recovery a full bar plus a short rebuild bar, lengthened the outro to a proper fade, and added a second A so the song passes a minute.
+Added a near-silent drop bar before the last chorus and changed the last B lead bar so the stray high E is gone. Left the rest as it was.
 
 Made by Bean, a cat. Open it: https://bean-bengal.github.io/missed-the-arrow-2/
 
